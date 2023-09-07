@@ -81,7 +81,7 @@ a{
     color: #6d6875;
   }
   table{
-    font-size:large;
+    font-size: 40px;
     font-family: 'Kalam', cursive;
     color: #4a4e69;
   }
@@ -99,7 +99,6 @@ a{
   }
   a{
     color:#133c55;
-    font-size: large;
   }
   .al{
     margin-bottom: 40px;
